@@ -1,0 +1,39 @@
+C:\Users\ElvisaGashi\source\repos\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.exe
+C:\Users\ElvisaGashi\source\repos\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.deps.json
+C:\Users\ElvisaGashi\source\repos\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.json
+C:\Users\ElvisaGashi\source\repos\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.dev.json
+C:\Users\ElvisaGashi\source\repos\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\ElvisaGashi\source\repos\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\ElvisaGashi\source\repos\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csprojAssemblyReference.cache
+C:\Users\ElvisaGashi\source\repos\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfoInputs.cache
+C:\Users\ElvisaGashi\source\repos\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfo.cs
+C:\Users\ElvisaGashi\source\repos\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\ElvisaGashi\source\repos\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\ElvisaGashi\source\repos\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\ElvisaGashi\source\repos\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.genruntimeconfig.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.exe
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.deps.json
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.json
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.dev.json
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csprojAssemblyReference.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfoInputs.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfo.cs
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.genruntimeconfig.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.exe
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.deps.json
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.json
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.runtimeconfig.dev.json
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\bin\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csprojAssemblyReference.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.csproj.CoreCompileInputs.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfoInputs.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.AssemblyInfo.cs
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.dll
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.pdb
+C:\Users\Prosperoware\Desktop\counting-sort-main\CountingSort\obj\Debug\netcoreapp3.1\CountingSort.genruntimeconfig.cache
