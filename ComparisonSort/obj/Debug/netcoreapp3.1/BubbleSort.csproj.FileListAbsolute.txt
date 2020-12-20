@@ -1,0 +1,39 @@
+C:\Users\ElvisaGashi\source\repos\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\ElvisaGashi\source\repos\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\ElvisaGashi\source\repos\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\ElvisaGashi\source\repos\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\ElvisaGashi\source\repos\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\ElvisaGashi\source\repos\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\ElvisaGashi\source\repos\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\ElvisaGashi\source\repos\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\ElvisaGashi\source\repos\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\ElvisaGashi\source\repos\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\ElvisaGashi\source\repos\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\ElvisaGashi\source\repos\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\ElvisaGashi\source\repos\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\ElvisaGashi\Desktop\Detyra_4 - AA\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csprojAssemblyReference.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+C:\Users\Prosperoware\Desktop\counting-sort-main\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
